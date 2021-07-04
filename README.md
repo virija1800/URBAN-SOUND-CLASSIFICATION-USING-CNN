@@ -1,2 +1,2 @@
-# usc
-usc 2021
+Urban Sound Classification using CNN
+
